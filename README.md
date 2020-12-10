@@ -63,6 +63,7 @@ Please add the link to the README as well. The folder structure `Arrays/Left Rot
 ||[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)|Easy|[View](/Trees/Binary%20Search%20Tree-Lowest%20Common%20Ancestor/solution.cpp)|[View](/Trees/Binary%20Search%20Tree-Lowest%20Common%20Ancestor/solution.java)||
 ||[Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)|Medium|[View](Trees/Tree-Is%20This%20a%20Binary%20Search%20Tree/solution.cpp)|[View](Trees/Tree-Is%20This%20a%20Binary%20Search%20Tree/solution.java)||
 ||[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|Medium|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.cpp)|[View](Trees/Tree-%20Swap%20Nodes%20[Algo]/solution.java)||
+||[Square Ten Tree](https://www.hackerrank.com/challenges/square-ten-tree/problem)|Hard|[View](Trees/Square%20Ten%20Tree/solution.cpp)||
 ||[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|Medium|[View](Trees/Tree%20Huffman%20Decoding/solution.cpp)||[View](Trees/Tree%20Huffman%20Decoding/solution.py)|
 | Algorithms |
 ||[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|Easy|[View](/Algorithms/Grading%20Students/solution.cpp)|[View](/Algorithms/Grading%20Students/solution.java)|[View](/Algorithms/Grading%20Students/solution.py)|
