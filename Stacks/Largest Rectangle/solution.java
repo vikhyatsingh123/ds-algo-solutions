@@ -15,7 +15,7 @@ public class Solution {
 		Stack<Integer> indices = new Stack<Integer>();
 		for (int i = 0; i < heights.length; i++) {
 			while (!indices.empty() && heights[i] <= heights[indices.peek()]) {
-				int index = indices.pop();
+				int index = indices.pop();                //if condition is true then pop the element and assign to index variable
 				long area = (long) heights[index]
 						* (i - (indices.empty() ? 0 : (indices.peek() + 1)));
 				maxArea = Math.max(maxArea, area);

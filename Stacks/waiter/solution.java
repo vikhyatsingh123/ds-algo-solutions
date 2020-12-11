@@ -20,9 +20,9 @@ public class Solution {
 			while (!A.empty()) {
 				int number = A.pop();
 				if (number % prime == 0) {
-					B.push(number);
+					B.push(number);      //if number is divisible by prime then add the number to B
 				} else {
-					nextA.push(number);
+					nextA.push(number);         //if not then add the number to nextA
 				}
 			}
 
@@ -40,7 +40,7 @@ public class Solution {
 			System.out.println(s.pop());
 		}
 	}
-
+//function for checking next number is prime or not
 	static int nextPrime(int begin) {
 		for (int i = begin + 1;; i++) {
 			if (isPrime(i)) {
@@ -48,9 +48,10 @@ public class Solution {
 			}
 		}
 	}
-
+   
+// function for checking number is prime or not
 	static boolean isPrime(int n) {
-		for (int i = 2; i * i <= n; i++) {
+		for (int i = 2; i * i <= n; i++) {            
 			if (n % i == 0) {
 				return false;
 			}
